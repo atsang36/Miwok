@@ -1,12 +1,14 @@
 Miwok App
 ===================================
+This app was used in a Udacity course in the Beginning Android Nanodegree
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+What Does it Do
+===================================
+The app displays lists of words for the user to learn the Miwok language.
 
 Pre-requisites
 --------------
-
+The following software needs to be installed:
 - Android SDK v23
 - Android Build Tools v23.0.2
 - Android Support Repository v23.3.0
@@ -14,7 +16,7 @@ Pre-requisites
 Getting Started
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
+This sample app uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
 Support
